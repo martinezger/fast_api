@@ -11,7 +11,7 @@ setup(
 
     entry_points='''
         [console_scripts]
-        runapp=commands.startapp:cli
+        runapp=commands.runapp:cli
     ''',
 
 )
